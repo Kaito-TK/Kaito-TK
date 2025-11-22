@@ -36,10 +36,3 @@
 <div align="center">
   <img height="160" src="https://streak-stats.demolab.com?user=Kaito&theme=radical&hide_border=true" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaito/Kaito/output/github-contribution-grid-snake-dark.svg" />
-</div>
