@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaito</h1>
-<h3 align="center">Frontend Developer crafting clean, modern, and animated web experiences</h3>
+<h3 align="center">Frontend Developer passionate about crafting polished interfaces, modern aesthetics, and fluid, animation-driven user experiences — transforming ideas into memorable, high-quality digital products with precision and creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaito&label=Profile%20views&color=0e75b6&style=flat" alt="kaito" /> </p>
 
