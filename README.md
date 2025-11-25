@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaito&show_icons=true&locale=en" alt="kaito-tk" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaito&theme=dark" alt="kaito" /></p>
