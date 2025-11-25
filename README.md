@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaito" alt="kaito" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" />
