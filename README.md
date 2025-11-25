@@ -27,7 +27,7 @@
 </div>
 
 <br/>
-<p><img margin='5px' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaito&show_icons=true&locale=en&layout=compact" alt="kaito-tk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaito&show_icons=true&locale=en&layout=compact" alt="kaito-tk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaito&show_icons=true&locale=en" alt="kaito-tk" /></p>
 
