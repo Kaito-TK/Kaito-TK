@@ -38,13 +38,13 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaito&show_icons=true&locale=en&layout=compact" alt="languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaito-TK&show_icons=true&locale=en&layout=compact" alt="languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaito&show_icons=true&locale=en" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaito-TK&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaito" alt="streak-stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaito-TK" alt="streak-stats" />
 </p>
