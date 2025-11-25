@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=blender" height="60" />
 </div>
 
-<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaito&show_icons=true&locale=en&layout=compact" alt="kaito-tk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaito&show_icons=true&locale=en" alt="kaito-tk" /></p>
