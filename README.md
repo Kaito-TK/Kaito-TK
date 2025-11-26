@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNtcmVweXcyOXhuZzdzeHQzZWN3Mm9vM2NycjVmYzNwM2MwaHVudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I9ngZ71kGZYNW/giphy.gif"
-       alt="Header animation" width="100%" />
+       alt="Header animation"  />
 </p>
 
 
